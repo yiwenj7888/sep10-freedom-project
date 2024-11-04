@@ -13,6 +13,20 @@ I am currently in the initial stage of the engineering design process, where I w
 ---
 Some skills I have are good time management and organizational skills. I have the ability to prioritize tasks based on urgency and importance. I create to-do lists for my assignments. This helps me focus on what needs immediate attention and which assignments I can focus on later. I also use digital calendars and note-taking apps to keep track and organize what I need to remember for each day. I make sure that important dates like assessments and projects are highlighted in my calendar so I know how to plan my schedule for that day.
 
+---
+
+### Next steps
+
+---
+I look foawrd to researching the innovations for business!
+
+---
+
+#Entry 1: Finance
+##### Why finance?
+
+The topic I chose for the year-long project is **finance**. I chose this topic because 
+
 
 [Next](entry02.md)
 
