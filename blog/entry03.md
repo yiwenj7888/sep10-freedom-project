@@ -6,6 +6,22 @@
 
 For part B, I started to think of ideas for innovations that could help businesses overcome their struggles. So, I’ve been thinking about common challenges businesses face, especially smaller ones or startups that might not have the resources for solutions. Businesses often struggle with customer engagement, workflow efficiency, and data management. From there, I made a list of possible solutions that help businesses, keeping in mind that my innovations should be able to address the potential problem and solutions.
 
+---
+
+#### Present: Timeline:
+This is a timeline consisting of the past and current technological innovation surrounding  businesses, including hardware and software.
+* 1884 - [Switches](https://www.cisco.com/site/us/en/solutions/small-business/networking/switches/index.html) enhance network performance which ensures seamless, uninterpreted flow for businesses
+* 1950s - [Mainframe computers](https://www.ibm.com/topics/mainframe) were used by businesses for complex calculations and record keeping.
+* 1990s - [Data centers](https://www.flexential.com/resources/blog/what-is-data-center) offer businesses infrastructure, enabling them to store huge amounts of data. Businesses can store all their data in one place, making it easier to manage and analyze, improving efficiency, reducing duplication of effort, and providing better insights into business operations.
+* 1999 - [Salesforce](https://www.salesforce.com/) allows businesses to manage and analyze customer interactions and data with their sales. This resulted in better customer relationships and improved higher sales performance.
+* 2006 - [Xero](https://www.xero.com/us/) is a cloud-based accounting software where businesses can access their financial data and ensure data is up to date. Their transactions are automatically updated which allows businesses to view their financial health.
+* 2020 - [Helm](https://takethehelm.app/) lets you see your future cash position in real-time, so you can make confident business decisions without wasting hours in spreadsheets, which helps with managing budgets, optimizing cash flow, and the overall financial health.
+
+
+
+
+---
+### Future innovations
 #### Productivity Glasses 
 * Uses: It enhances productivity by having task management and helps organize the employees work life. 
 * Issues it solves: Employees productivity decreases in a multitasking environment where they often have multiple tasks like files needing to be written, emails and meetings, having to handle and work on multiple tasks to finish the deadline which leads to reduced focus and motivation. The glasses will help organize the tasks through deadlines and notify the employer’s productivity while giving advice through the glasses.
