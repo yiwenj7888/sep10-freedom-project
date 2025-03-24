@@ -23,6 +23,15 @@
 * Next, I’m going to try combining more complex animations, like `animate__zoomIn` and `animate__rotateIn`, to create more dynamic effects. I’m also considering adding media queries to fine-tune the animations for smaller screens.
 
 
+### 3/18/2025
+* Today, I continued experimenting with Animate.css, specifically focusing on adding more complex animations to my webpage. I revisited both the official Animate.css documentation and the tutorial I watched last week. It was great to refresh my understanding of the different animation options and how to combine them for more dynamic effects.
+* I tried implementing `animate__zoomIn` and `animate__rotateIn` together for a section of my homepage. I was pleasantly surprised by how well they worked together. The zoomIn animation made the section grow larger while rotateIn made it spin slightly. I added a slight delay with `animate__delay-0.5s` to sequence the animations, making the effect feel more natural.
+* One challenge I faced was ensuring the animations didn’t clash with each other or feel too overwhelming. I had to experiment with timing and delays to get everything to sync properly without it feeling too busy or distracting.
+* A-ha moment: I discovered that using `animate__delay` in combination with `animate__once` allowed me to control the sequence of animations without them repeating. This was exactly what I needed to ensure that some elements only animated once on page load, while others triggered based on user interaction.
+* A question I still have: How can I integrate more advanced interaction-based animations (like triggering animations when a user clicks or hovers over an element)? Is there a simple way to use Animate.css with trigger events without writing custom JavaScript?
+* Next, I plan to integrate more interactivity into my project, possibly by using user actions to initiate specific animations. I also want to explore how to combine Animate.css with other libraries like ScrollMagic for more complex scroll-based animations.
+
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
