@@ -32,6 +32,17 @@
 * Next, I plan to integrate more interactivity into my project, possibly by using user actions to initiate specific animations. I also want to explore how to combine Animate.css with other libraries like ScrollMagic for more complex scroll-based animations.
 
 
+### 4/2/2025
+* Today, I spent some time diving into the Animate.css documentation to understand the animation-fill-modeproperty, which I had heard about but never fully explored. This property controls how the styles applied by an animation are maintained before and after it runs. It was interesting to learn that there are four possible values: `none`, `forwards`, `backwards`, and both. This property allows you to control whether the element stays in its initial or final state after the animation ends.
+* I tried experimenting with `animation-fill-mode: forwards;` on one of my elements, and it worked perfectly! The element maintained the final state of the animation, which was exactly what I needed for a button that should stay enlarged after a hover animation.
+The documentation mentioned that when using `animation-fill-mode: forwards;`, the element retains the styles of the animation’s last keyframe after the animation finishes. This was really helpful since I often found that elements would revert back to their initial state after an animation, and now I know how to fix that.
+* To deepen my understanding, I decided to explore the MDN Web Docs on the `animation-fill-mode` property. I found an article titled "animation-fill-mode - CSS: Cascading Style Sheets | MDN" that explains in more detail how this property works in various scenarios, including how it interacts with other animation properties. It also provided useful examples on how to use it in combination with different timing functions and keyframes.
+* A-ha moment: I realized that using `animation-fill-mode: backwards;` can be just as useful when you want the element to take on the style defined in the first keyframe before the animation starts. This was a great discovery because it gave me more control over how my animations behave at the start of an interaction.
+* A question I still have: Is it possible to combine `animation-fill-mode` with custom JavaScript events to dynamically change the behavior of an animation depending on user interactions? I want to make sure the animations feel as interactive and smooth as possible.
+* Next, I’m going to continue experimenting with `animation-fill-mode` on different elements, especially in combination with more complex animations. I also want to learn how to trigger these animations based on user input like clicks or scrolls, while ensuring that the final state of the animation is preserved without needing extra custom code.
+
+
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
