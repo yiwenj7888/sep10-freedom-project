@@ -10,7 +10,7 @@
    * The interface is user-friendly and interactive, using Bootstrap and Animate.css.
      
 ## Process
-* Flowchart: I’ll walk you through the planning process of this project.
+* Flowchart: I’ll walk my classmates through the planning process of this project.
     * The key steps include:
         * 1    Research on business technologies.
         * 2    Designing the user interface with Bootstrap.
