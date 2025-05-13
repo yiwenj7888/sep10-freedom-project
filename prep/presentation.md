@@ -1,16 +1,29 @@
 # Presentation Plan
 
 ## Hook
-* 
-
+* "Imagine a business that has the power to adapt to any technological change, how would it look?"
+  * This hooks the audience into thinking about how technology shapes the business world.
+    
 ## Product
-* 
-
+* Demo: I’ll show you a demo of the website I created, which highlights the timeline of business technologies from past to future.
+   * What does it show? The impact of technology on businesses over the years.
+   * The interface is user-friendly and interactive, using Bootstrap and Animate.css.
+     
 ## Process
-* 
+* Flowchart: I’ll walk you through the planning process of this project.
+    * The key steps include:
+        * 1    Research on business technologies.
+        * 2    Designing the user interface with Bootstrap.
+        * 3    Enhancing the user experience with Animate.css for smooth animations.
+    * Code snippets: A glimpse of the MVP, such as the HTML structure and how I used Bootstrap to create responsive designs, and the addion of Animate.css for animation of my texts. 
 
 ## Conclusion
-* 
+* [URL to project]
+* Takeaways:
+    * 1    Less is more: I focused on simplicity in design and functionality.
+    * 2    Expect the unexpected: I faced challenges, such as handling responsive layouts, but adapted using Bootstrap.
+    * 3    Determination is key: Even with challenges, I was able to create an interactive and informative timeline using Bootstrap and Animate.css.
+* Last line/Final thought: Technology shapes the future of business, and innovation can lead to endless opportunities.
 
 <!-- EXAMPLE
 
