@@ -15,7 +15,7 @@
         * 1    Research on business technologies.
         * 2    Designing the user interface with Bootstrap.
         * 3    Enhancing the user experience with Animate.css for smooth animations.
-    * Code snippets: A glimpse of the MVP, such as the HTML structure and how I used Bootstrap to create responsive designs, and the addion of Animate.css for animation of my texts. 
+    * Code snippets: A glimpse of the MVP, such as the HTML structure and how I used Bootstrap to create responsive designs, and the addition of Animate.css for animation of my texts. 
 
 ## Conclusion
 * [URL to project]
